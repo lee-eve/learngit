@@ -12,5 +12,5 @@ LeanningGit : git add [file name];
 	  git reflog；Git提供了一个命令git reflog用来记录你的每一次命令 
 	  git config --global user.name "yourname";
 	  git config --global user.email "youremail@example";
-	  ok
+	  ok 我有了一个分布式的版本控制在Github上；
  
