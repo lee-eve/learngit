@@ -2,6 +2,7 @@ Git is a version contril system.
 Git is free software.
 Creating a new branch is quick.
 Come On Git.
+test confilct
 LeanningGit :
 	 1. git add [file name];
 	 2. git commit -m "log msg";
@@ -21,4 +22,5 @@ LeanningGit :
 	  切换分支：git checkout <name>
 	  创建+切换分支：git checkout -b <name>
 	  合并某分支到当前分支：git merge <name>
-	  删除分支：git branch -d <name> 	   
+	  删除分支：git branch -d <name>
+	  	   
