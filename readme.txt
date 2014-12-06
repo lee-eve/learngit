@@ -2,6 +2,7 @@ Git is a version contril system.
 Git is free software.
 Creating a new branch is quick.
 Come On Git.
+test conflict1.
 LeanningGit :
 	 1. git add [file name];
 	 2. git commit -m "log msg";
