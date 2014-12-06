@@ -1,5 +1,6 @@
 Git is a version contril system.
 Git is free software.
+Creating a new branch is quick.
 Come On Git.
 LeanningGit : git add [file name];
 	  git commit -m "log msg";
@@ -13,4 +14,4 @@ LeanningGit : git add [file name];
 	  git config --global user.name "yourname";
 	  git config --global user.email "youremail@example";
 	  ok 我有了一个分布式的版本控制在Github上；
- 
+  	   
